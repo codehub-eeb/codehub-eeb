@@ -61,12 +61,6 @@ A personal portfolio showcasing my technical skills, projects, education, and de
 
 ---
 
-##  GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codehub-eeb&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codehub-eeb&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ##  Connect With Me
